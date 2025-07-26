@@ -7,6 +7,8 @@
 .menu-container {
   color: #fff;
   background-color: #5995da;
+  display: flex;
+  justify-content: center;
 }
 
 .menu {
